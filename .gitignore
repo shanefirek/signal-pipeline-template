@@ -1,0 +1,23 @@
+node_modules/
+dist/
+.env
+.trigger/
+.supabase/
+*.log
+
+# Generated reports — kept locally, not source code
+classifier-reports/
+
+# Ad-hoc data exports
+data/*.json
+data/*.csv
+data/*.md
+
+# Supabase temp
+supabase/.temp/
+
+# Local data files
+data/*.json
+
+# Supabase temp
+supabase/.temp/
